@@ -1,0 +1,13 @@
+opn:
+    factory: 1433
+autostart: True
+temp_comp: True
+drvhv:
+    enabled: True
+    oe:
+        val: True
+    div:
+        option0: 1
+    mode:
+        option0:
+            diff: DIFF_NOTERM_1V2_5mA

@@ -1,12 +1,5 @@
-#
-# Configuration specification YAML file
-#
-# Configuration Description:
-#   Single HV CMOS XO w/ no pin control
-#
-
 opn:
-    factory: 1504
+    factory: 1434
 autostart: True
 temp_comp: True
 drvhv:

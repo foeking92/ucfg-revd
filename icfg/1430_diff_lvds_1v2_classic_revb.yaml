@@ -1,0 +1,13 @@
+opn:
+    factory: 1430
+autostart: True
+temp_comp: True
+drvhv:
+    enabled: True
+    oe:
+        val: True
+    div:
+        option0: 1
+    mode:
+        option0:
+            diff: LVDS_1P2_CLASSIC
