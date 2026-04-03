@@ -39,7 +39,7 @@ comp:
 
 poly:
     order: 6
-    pwl: True
+    pwl: 0
 
 meas:
     freq_target: 38880000
@@ -55,7 +55,6 @@ ucfg:
     autostart: True
     temp_comp: True
     opn:
-        factory: 1434
         current: 1453
     drvhv:
         enabled: True                   
