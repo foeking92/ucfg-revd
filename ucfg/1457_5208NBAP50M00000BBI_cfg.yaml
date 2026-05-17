@@ -1,6 +1,6 @@
 basic_info:
-    filename: 1457_5208NAAP50M00000BBI_cfg
-    pn: 5208NAAP50M00000BBI
+    filename: 1457_5208NBAP50M00000BBI_cfg
+    pn: 5208NBAP50M00000BBI
     cfgid: 1457
 
 specification:
@@ -10,7 +10,7 @@ specification:
     odiv: 1
     vdd: 3.3
     driver: HVCMOS_CLKP
-    temp_range: -40~85
+    temp_range: -40~90
     init_tol: 1
     temp_stab: 1
     oe_pin: 0

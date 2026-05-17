@@ -1,6 +1,6 @@
 basic_info:
-    filename: 1450_5208AAAT100M0030BBE_cfg
-    pn: 5208AAAT100M0030BBE
+    filename: 1450_5208ABAT100M0030BBE_cfg
+    pn: 5208ABAT100M0030BBE
     cfgid: 1450
 
 specification:
@@ -10,7 +10,7 @@ specification:
     odiv: 1
     vdd: 3.3
     driver: LVPECL_DC
-    temp_range: -40~105
+    temp_range: -40~110
     init_tol: 5
     temp_stab: 10
     oe_pin: 0
