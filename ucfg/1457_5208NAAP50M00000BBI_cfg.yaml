@@ -45,9 +45,9 @@ meas:
     freq_target: 50000000
     vdd: 3.3
     temp_low: -40
-    temp_high: 85
+    temp_high: 90
     tol_limit: 0.9
-    stab_limit: 1.8
+    stab_limit: 0.9
     iload: 0
     str_adj: 0
 
