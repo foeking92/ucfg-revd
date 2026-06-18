@@ -13,8 +13,8 @@ specification:
     temp_range: -40~90
     init_tol: 1
     temp_stab: 1
-    oe_pin: 0
-    active_high: 1
+    oe_pin: /
+    active_high: /
 
 func:
     vref: 1.05
@@ -32,7 +32,7 @@ comp:
     freq_target: 50000000
     vdd: 3.3
     temp_low: -45
-    temp_high: 95
+    temp_high: 90
     search_bit: 12
     iload: 12
     str_adj: 0
@@ -45,7 +45,7 @@ meas:
     freq_target: 50000000
     vdd: 3.3
     temp_low: -40
-    temp_high: 90
+    temp_high: 85
     tol_limit: 0.9
     stab_limit: 0.9
     iload: 12
